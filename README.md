@@ -1,5 +1,4 @@
-# 🐐Sushmitha
-**RTL Design and Verification**
+
 
 <h1 align="center">Hi 👋, I'm Sushmitha</h1>
 <h3 align="center">A passionate RTL Design and Verification Engineer from India</h3>
