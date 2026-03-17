@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sushmitha</h1>
-<h3 align="center">A passionate **RTL Design and Verification Engineer** from India</h3>
+<h3 align="center">A passionate RTL Design and Verification Engineer from India</h3>
 
 
 - 🔭 I’m currently working in **BEL**
